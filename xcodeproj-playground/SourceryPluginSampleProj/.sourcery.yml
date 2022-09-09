@@ -1,0 +1,5 @@
+sources:
+  - .
+templates:
+  - SourceryTemplates
+output: .
